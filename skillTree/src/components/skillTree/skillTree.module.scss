@@ -1,0 +1,40 @@
+
+
+// body {
+//     font-family: Arial, sans-serif;
+//     background-color: #f0f0f0;
+//     margin: 0;
+//     padding: 20px;
+//   }
+  
+  h1 {
+    color: #333;
+  }
+  
+  h2 {
+    color: #555;
+  }
+  
+  .project-tree ul {
+    list-style-type: none;
+    padding-left: 20px;
+  }
+  
+  .project-tree li {
+    margin: 10px 0;
+  }
+  
+  .project-tree li div {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .project-tree li div strong {
+    display: block;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+  }
+  
